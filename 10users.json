@@ -1,0 +1,232 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Côme",
+      "last": "Hubert"
+    },
+    "email": "come.hubert@example.com",
+    "location": {
+      "street": {
+        "name": "Avenue Debourg",
+        "number": 287
+      },
+      "city": "Toulouse",
+      "state": "Allier",
+      "country": "France",
+      "postcode": "73160"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/96.jpg"
+    },
+    "phone": "02-61-99-29-79"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Virgulino",
+      "last": "da Conceição"
+    },
+    "email": "virgulino.daconceicao@example.com",
+    "location": {
+      "street": {
+        "name": "Rua Paraíba ",
+        "number": 6130
+      },
+      "city": "São José de Ribamar",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "postcode": "97032"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/40.jpg"
+    },
+    "phone": "(75) 8395-4077"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sølve",
+      "last": "Stadheim"
+    },
+    "email": "solve.stadheim@example.com",
+    "location": {
+      "street": {
+        "name": "Åslandhellinga",
+        "number": 7468
+      },
+      "city": "Beitostølen",
+      "state": "Buskerud",
+      "country": "Norway",
+      "postcode": "3571"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg"
+    },
+    "phone": "73483055"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Madame",
+      "first": "Anne-Lise",
+      "last": "Morel"
+    },
+    "email": "anne-lise.morel@example.com",
+    "location": {
+      "street": {
+        "name": "Rue Duguesclin",
+        "number": 5817
+      },
+      "city": "Muriaux",
+      "state": "Obwalden",
+      "country": "Switzerland",
+      "postcode": "9159"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/women/29.jpg"
+    },
+    "phone": "075 760 94 19"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Méline",
+      "last": "Louis"
+    },
+    "email": "meline.louis@example.com",
+    "location": {
+      "street": {
+        "name": "Cours Charlemagne",
+        "number": 9721
+      },
+      "city": "Brest",
+      "state": "Ardèche",
+      "country": "France",
+      "postcode": "12912"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    "phone": "05-39-93-51-71"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Noel",
+      "last": "Zink"
+    },
+    "email": "noel.zink@example.com",
+    "location": {
+      "street": {
+        "name": "Mozartstraße",
+        "number": 818
+      },
+      "city": "Harburg (Schwaben)",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "postcode": "61947"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/21.jpg"
+    },
+    "phone": "0069-6703142"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Charles",
+      "last": "Bryant"
+    },
+    "email": "charles.bryant@example.com",
+    "location": {
+      "street": {
+        "name": "W Pecan St",
+        "number": 6799
+      },
+      "city": "Sydney",
+      "state": "Queensland",
+      "country": "Australia",
+      "postcode": "645"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/47.jpg"
+    },
+    "phone": "06-2560-9290"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Eliana",
+      "last": "Carvalho"
+    },
+    "email": "eliana.carvalho@example.com",
+    "location": {
+      "street": {
+        "name": "Rua Castro Alves ",
+        "number": 6996
+      },
+      "city": "Camaçari",
+      "state": "Paraíba",
+      "country": "Brazil",
+      "postcode": "34135"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/women/16.jpg"
+    },
+    "phone": "(03) 2978-4862"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Simon",
+      "last": "Robert"
+    },
+    "email": "simon.robert@example.com",
+    "location": {
+      "street": {
+        "name": "Rue Desaix",
+        "number": 1532
+      },
+      "city": "Chur",
+      "state": "Appenzell Ausserrhoden",
+      "country": "Switzerland",
+      "postcode": "1282"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/59.jpg"
+    },
+    "phone": "077 298 12 44"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Emil",
+      "last": "Rasmussen"
+    },
+    "email": "emil.rasmussen@example.com",
+    "location": {
+      "street": {
+        "name": "Klitrosevej",
+        "number": 1026
+      },
+      "city": "Roslev",
+      "state": "Danmark",
+      "country": "Denmark",
+      "postcode": "11910"
+    },
+    "picture": {
+      "medium": "https://randomuser.me/api/portraits/med/men/28.jpg"
+    },
+    "phone": "33894829"
+  }
+]
