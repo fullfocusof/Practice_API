@@ -1,0 +1,172 @@
+{
+  "general": [
+    {
+      "id": 316,
+      "type": "general",
+      "setup": "Why did the belt go to prison?",
+      "punchline": "He held up a pair of pants!"
+    },
+    {
+      "id": 354,
+      "type": "general",
+      "setup": "Why do wizards clean their teeth three times a day?",
+      "punchline": "To prevent bat breath!"
+    },
+    {
+      "id": 211,
+      "type": "general",
+      "setup": "What do you call a nervous javelin thrower?",
+      "punchline": "Shakespeare."
+    },
+    {
+      "id": 237,
+      "type": "general",
+      "setup": "What happens when you anger a brain surgeon?",
+      "punchline": "They will give you a piece of your mind."
+    },
+    {
+      "id": 116,
+      "type": "general",
+      "setup": "How did Darth Vader know what Luke was getting for Christmas?",
+      "punchline": "He felt his presents."
+    },
+    {
+      "id": 105,
+      "type": "general",
+      "setup": "Do I enjoy making courthouse puns?",
+      "punchline": "Guilty"
+    },
+    {
+      "id": 296,
+      "type": "general",
+      "setup": "Who did the wizard marry?",
+      "punchline": "His ghoul-friend"
+    },
+    {
+      "id": 161,
+      "type": "general",
+      "setup": "What did one plate say to the other plate?",
+      "punchline": "Dinner is on me!"
+    },
+    {
+      "id": 210,
+      "type": "general",
+      "setup": "What do you call a monkey in a mine field?",
+      "punchline": "A babooooom!"
+    },
+    {
+      "id": 53,
+      "type": "general",
+      "setup": "I had a dream that I was a muffler last night.",
+      "punchline": "I woke up exhausted!"
+    }
+  ],
+  "knock-knock": [
+    {
+      "id": 11,
+      "type": "knock-knock",
+      "setup": "Knock knock. \n Who\u0027s there? \n A broken pencil. \n A broken pencil who?",
+      "punchline": "Never mind. It\u0027s pointless."
+    },
+    {
+      "id": 33,
+      "type": "knock-knock",
+      "setup": "Knock knock. \n Who\u0027s there? \n Opportunity.",
+      "punchline": "That is impossible. Opportunity doesn’t come knocking twice!"
+    },
+    {
+      "id": 13,
+      "type": "knock-knock",
+      "setup": "Knock knock. \n Who\u0027s there? \n Little old lady. \n Little old lady who?",
+      "punchline": "I didn\u0027t know you could yodel!"
+    },
+    {
+      "id": 60,
+      "type": "knock-knock",
+      "setup": "Knock knock. \n Who\u0027s there? \n Hatch. \n Hatch who?",
+      "punchline": "Bless you!"
+    },
+    {
+      "id": 12,
+      "type": "knock-knock",
+      "setup": "Knock knock. \n Who\u0027s there? \n Cows go. \n Cows go who?",
+      "punchline": "No, cows go moo."
+    }
+  ],
+  "programming": [
+    {
+      "id": 408,
+      "type": "programming",
+      "setup": "Why did the developer quit his job?",
+      "punchline": "Because he didn\u0027t get arrays."
+    },
+    {
+      "id": 412,
+      "type": "programming",
+      "setup": "What do you get when you cross a React developer with a mathematician?",
+      "punchline": "A function component."
+    },
+    {
+      "id": 59,
+      "type": "programming",
+      "setup": "A user interface is like a joke.",
+      "punchline": "If you have to explain it then it is not that good."
+    },
+    {
+      "id": 363,
+      "type": "programming",
+      "setup": "What\u0027s the best part about TCP jokes?",
+      "punchline": "I get to keep telling them until you get them."
+    },
+    {
+      "id": 72,
+      "type": "programming",
+      "setup": "The punchline often arrives before the set-up.",
+      "punchline": "Do you know the problem with UDP jokes?"
+    },
+    {
+      "id": 435,
+      "type": "programming",
+      "setup": "What do you call a computer mouse that swears a lot?",
+      "punchline": "A cursor!"
+    },
+    {
+      "id": 410,
+      "type": "programming",
+      "setup": "How many React developers does it take to change a lightbulb?",
+      "punchline": "None, they prefer dark mode."
+    },
+    {
+      "id": 28,
+      "type": "programming",
+      "setup": "There are 10 types of people in this world...",
+      "punchline": "Those who understand binary and those who don\u0027t"
+    },
+    {
+      "id": 18,
+      "type": "programming",
+      "setup": "Why did the programmer quit his job?",
+      "punchline": "Because he didn\u0027t get arrays."
+    },
+    {
+      "id": 418,
+      "type": "programming",
+      "setup": "Why did the programmer always mix up Halloween and Christmas?",
+      "punchline": "Because Oct 31 equals Dec 25."
+    }
+  ],
+  "dad": [
+    {
+      "id": 378,
+      "type": "dad",
+      "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+      "punchline": "In case they get a hole in one!"
+    },
+    {
+      "id": 384,
+      "type": "dad",
+      "setup": "Why don\u0027t eggs tell jokes?",
+      "punchline": "Because they would crack each other up."
+    }
+  ]
+}
